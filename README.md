@@ -21,7 +21,8 @@ Menu Options:
 Prints a menu with options for finding the maximum and minimum scores, performing linear and binary searches, and exiting the program.
 ## WFP App
 ![Alt text](https://github.com/mahdimirbagheri/CSharp-Example/blob/main/Console%20App/console.jpg)
-Game Title: Starwar
+
+### Game Title: Starwar
 
 Gameplay:
 
