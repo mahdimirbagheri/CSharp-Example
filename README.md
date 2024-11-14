@@ -19,8 +19,8 @@ For each pair, prints a row in the table, formatting the name and score to align
 Menu Options:
 
 Prints a menu with options for finding the maximum and minimum scores, performing linear and binary searches, and exiting the program.
-![Alt text](images/example.png)
 ## WFP App
+![Alt text](https://github.com/mahdimirbagheri/CSharp-Example/blob/main/Console%20App/console.jpg)
 Game Title: Starwar
 
 Gameplay:
