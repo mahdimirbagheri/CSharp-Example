@@ -1,5 +1,5 @@
 # CSharp-Example
-# Console App
+* Console App
 This C# code snippet generates a formatted table in the console. It's designed to display a list of names and their corresponding scores, followed by a menu with various options:
 
 Display Max and Min Scores: Calculates and displays the maximum and minimum scores.
@@ -18,6 +18,6 @@ For each pair, prints a row in the table, formatting the name and score to align
 Menu Options:
 
 Prints a menu with options for finding the maximum and minimum scores, performing linear and binary searches, and exiting the program.
-# WFP App
+* WFP App
 *
 
